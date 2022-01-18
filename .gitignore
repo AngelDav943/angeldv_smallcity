@@ -1,0 +1,15 @@
+*.fbx
+*.png
+*.jpg
+*.zip
+
+*.vmap
+*.vmdl
+*.vmat
+*.los
+
+*.csproj
+.vs/*
+
+_bakeresourcecache
+tools_asset_info.bin
