@@ -1,13 +1,13 @@
 {
   "SharedAssets": "*.*",
   "Title": "Small City",
-  "Type": "game",
+  "Type": "map",
   "Org": "local",
   "Ident": "smallcity",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
   "HasCode": false,
-  "CodePath": "code",
+  "CodePath": "/code/",
   "RootNamespace": "Sandbox"
 }
